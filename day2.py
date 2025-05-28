@@ -1,3 +1,7 @@
+#Calculate the Total Revenue
+#List Low Stock item if Stock is Less than 5
+#Calculte the Category-Wise Revenue
+
 inventory = [
     # name,       category,   unit_price, units_sold, units_left
     
