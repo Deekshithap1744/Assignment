@@ -1,10 +1,8 @@
-/*You're building a system to manage student data for a university. Each student is identified by a unique student ID and has the following details)
-
-- Name
-- Major
-- Enrolled Courses (each course has a course name and a dictionary of assessment scores like midterm, final, and project)
-
- Sample Data (Nested Dictionary):*/
+#You're building a system to manage student data for a university. Each student is identified by a unique student ID and has the following details)
+#- Name
+#- Major
+#- Enrolled Courses (each course has a course name and a dictionary of assessment scores like midterm, final, and project)
+ #Sample Data (Nested Dictionary):*/
 
 university_data = {
     "S101": {
